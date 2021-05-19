@@ -1,0 +1,23 @@
+body {
+	font-family: montserrat;
+	text-align: center;
+	padding: 20%;
+	background-color: #defcff;
+}
+
+h1 {
+	text-decoration: underline;
+	color: green;
+	font-weight: normal;
+}
+
+a {
+	font-weight: bolder;
+	color: red;
+}
+
+h3 {
+	font-style: italic;
+	color: blue;
+	font-weight: lighter;
+}
